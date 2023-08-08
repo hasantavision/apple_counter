@@ -21,3 +21,8 @@ If you need to run it on your environment, please make sure you install these
 
 dataset for training is in /data folder.
 in the notebook, I use the link from my google drive so you can run the codes without the need to download manually.
+
+# Training
+I use Detectron2 to train Mask-RCNN with apple apple dataset.
+The script for training is in utils. you can click link below to directly go to google colab.
+[training on colab](https://colab.research.google.com/drive/1bWOUmGvO_9KqBliYC5IUnIjrE1scDq-7?usp=sharing)
